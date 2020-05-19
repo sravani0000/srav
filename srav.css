@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    width: 70%;
+    margin: 0,auto;
+    background-color: #EBF5FF;
+}
+
+/* blue red black voilet */
+
+p{
+    font-size: x-large;
+    color: #24272B;
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    background-color: rgba(6, 148, 243, 0.233);
+    border-radius: 20px;
+    padding: 8px;
+}
+
+h1{
+    color: #9A74CC;
+    margin-bottom: 1em;
+    font-size: 3em;
+    text-align: left;
+    font-weight: 600;
+    margin-left: 1em;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+
+.links{
+    color: rgb(red, green, blue)
+    font-size: 1.6em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: end;
+    font-weight: bold;
+    background-color: rgb(246, 101, 96);
+    padding: 10px;
+    margin: 1em;
+    border-radius: 20px;
+}
